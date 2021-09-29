@@ -1,0 +1,10 @@
+C:\Users\egeme\source\repos\basit_yakıt_hesaplama\basit_yakıt_hesaplama\bin\Debug\basit_yakıt_hesaplama.exe.config
+C:\Users\egeme\source\repos\basit_yakıt_hesaplama\basit_yakıt_hesaplama\bin\Debug\basit_yakıt_hesaplama.exe
+C:\Users\egeme\source\repos\basit_yakıt_hesaplama\basit_yakıt_hesaplama\bin\Debug\basit_yakıt_hesaplama.pdb
+C:\Users\egeme\source\repos\basit_yakıt_hesaplama\basit_yakıt_hesaplama\obj\Debug\basit_yakıt_hesaplama.csprojAssemblyReference.cache
+C:\Users\egeme\source\repos\basit_yakıt_hesaplama\basit_yakıt_hesaplama\obj\Debug\basit_yakıt_hesaplama.Form1.resources
+C:\Users\egeme\source\repos\basit_yakıt_hesaplama\basit_yakıt_hesaplama\obj\Debug\basit_yakıt_hesaplama.Properties.Resources.resources
+C:\Users\egeme\source\repos\basit_yakıt_hesaplama\basit_yakıt_hesaplama\obj\Debug\basit_yakıt_hesaplama.csproj.GenerateResource.cache
+C:\Users\egeme\source\repos\basit_yakıt_hesaplama\basit_yakıt_hesaplama\obj\Debug\basit_yakıt_hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\egeme\source\repos\basit_yakıt_hesaplama\basit_yakıt_hesaplama\obj\Debug\basit_yakıt_hesaplama.exe
+C:\Users\egeme\source\repos\basit_yakıt_hesaplama\basit_yakıt_hesaplama\obj\Debug\basit_yakıt_hesaplama.pdb
